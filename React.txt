@@ -1,1 +1,1 @@
-java -Dspring.datasource.password=dhv1902 -jar jar-cdc-react.jar rodar para subir o serviço local
+java -Dspring.datasource.password=""-jar jar-cdc-react.jar rodar para subir o serviÃ§o local
